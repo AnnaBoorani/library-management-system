@@ -18,12 +18,11 @@ The application allows users to manage books with add, edit, delete, and search 
 - LocalStorage
   
 ## Screenshots
-
 ## Book Form Page
 <img width="1650" height="465" alt="BookForm" src="https://github.com/user-attachments/assets/ac549923-ea34-4de7-b025-975dfc30e0fe" />
 
 ## Book Management Page
-[!BookManagement]<img width="1650" height="850" alt="BookManagement" src="https://github.com/user-attachments/assets/9da84f96-793a-4981-a558-e9e4c5d3cbd7" />
+<img width="1650" height="850" alt="BookManagement" src="https://github.com/user-attachments/assets/9da84f96-793a-4981-a558-e9e4c5d3cbd7" />
 
 Run Locally:
 npm install
